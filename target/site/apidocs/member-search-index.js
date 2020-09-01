@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.apress.gswmbook.web.servlet","c":"AppStatusServlet","l":"AppStatusServlet()","url":"%3Cinit%3E()"},{"p":"com.apress.gswmbook.web.servlet","c":"AppStatusServlet","l":"doGet(HttpServletRequest, HttpServletResponse)","url":"doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)"}]

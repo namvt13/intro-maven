@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.apress.gswmbook.web.servlet","l":"AppStatusServlet"}]

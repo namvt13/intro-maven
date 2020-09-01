@@ -1,0 +1,48 @@
+/usr/lib/jvm/openjdk/bin/javadoc
+@options
+@packages
+--class-path
+'/home/thanos/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/thanos/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/thanos/IdeaProjects/gswm-web-prototype/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'gswm-web-prototype Maven Webapp 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/home/thanos/IdeaProjects/gswm-web-prototype/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'gswm-web-prototype Maven Webapp 1.0-SNAPSHOT API'
+com.apress.gswmbook.web.servlet
+/home/thanos/IdeaProjects/gswm-web-prototype/src/main/java = 1598793886318
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/member-search-index.zip = 1598854972879
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/overview-tree.html = 1598854972867
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/package-search-index.zip = 1598854972875
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/allpackages-index.html = 1598854972883
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/package-search-index.js = 1598854972875
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/help-doc.html = 1598854972887
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/serialized-form.html = 1598854972855
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/type-search-index.js = 1598854972879
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/member-search-index.js = 1598854972879
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/script.js = 1598854972891
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/type-search-index.zip = 1598854972879
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/allclasses-index.html = 1598854972883
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/index-all.html = 1598854972879
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/element-list = 1598854972835
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/index.html = 1598854972887
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/constant-values.html = 1598854972847
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/stylesheet.css = 1598854972891
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/search.js = 1598854972891
+/home/thanos/IdeaProjects/gswm-web-prototype/target/site/apidocs/deprecated-list.html = 1598854972871

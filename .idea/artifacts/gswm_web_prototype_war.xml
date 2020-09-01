@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gswm-web-prototype:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gswm-web-prototype</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gswm-web-prototype.war">
+      <element id="artifact" artifact-name="gswm-web-prototype:war exploded" />
+    </root>
+  </artifact>
+</component>
